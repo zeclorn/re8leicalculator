@@ -8,6 +8,10 @@ Take the Challange Amount you Want to get MINUS your current Lei -
 
 Run the python script and put in the amount you want to find
 
+Sell 1 round of Rifle Ammo for 7 Lei
+
+Sell 1 round of Handgun Ammo for 15 Lei
+
 # Example
 
 54,321 (goal lei) Minus 54,185 (current lei)
