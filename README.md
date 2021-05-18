@@ -8,16 +8,17 @@ Take the Challange Amount you Want to get MINUS your current Lei -
 
 Run the python script and put in the amount you want to find
 
-Example
+# Example
 
-54,321 (goal lei)
-Minus
-54,185 (current lei)
-=
-136 (amount to put in the script to find)
+54,321 (goal lei) Minus 54,185 (current lei)
+
+= 136 (amount to put in the script to find)
 
 Target Amounts: 
+
 Countdown Challenge :: 54321 Lei
+
 Lucky Number 7 :: 777 Lei or 7,777 Lei or 77,777 Lei
+
 Anniversary Present :: 52911 Lei
 
